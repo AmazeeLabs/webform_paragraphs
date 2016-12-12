@@ -1,0 +1,8 @@
+name: Webform Paragraphs
+core: 8.x
+description: Adds a paragraph reference to the webforms when they are submitted from a paragraph context.
+package: Custom
+type: module
+dependencies:
+  - webform
+  - paragraphs
